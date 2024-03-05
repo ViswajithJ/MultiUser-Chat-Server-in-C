@@ -8,7 +8,6 @@ Client uses multithreading to send and receive messages.
 
 <h4>// TODO</h4>
 
-- Clean up code
 - Handle name and message display format in client side
 - Same in UDP
 
@@ -16,4 +15,3 @@ Client uses multithreading to send and receive messages.
 
 - While compiling, link pthread library
 - Eg: `cc server.c -lpthread`
-
