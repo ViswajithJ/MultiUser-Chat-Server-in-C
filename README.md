@@ -9,7 +9,7 @@ Client uses multithreading to send and receive messages.
 <h4>// TODO</h4>
 
 - Handle name and message display format in client side
-- Same in UDP
+
 
 <h3>Note</h3>
 
